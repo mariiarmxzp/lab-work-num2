@@ -109,7 +109,7 @@
      left: 0;
      right: 0;
      bottom: 0;
-     background-image: url(1_1.png);
+     background-image: url(images/1_1.png);
      background-size: cover;
      background-position: center center;
      opacity: 0.3;
@@ -414,7 +414,7 @@
      left: 0;
      right: 0;
      bottom: 0;
-     background-image: url(help.png);
+     background-image: url(images/help.png);
      background-size: cover;
      background-position: center center;
      opacity: 0.3;
@@ -461,4 +461,5 @@
          display: block;
          text-align: center;
      }
+
  }
